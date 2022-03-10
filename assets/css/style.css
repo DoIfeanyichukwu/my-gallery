@@ -142,6 +142,10 @@ img {
         margin: 0 auto;
         margin-bottom: 1rem;
     }
+
+    img {
+        height: 100%;
+    }
 }
 
 @media (min-width: 1440px)
