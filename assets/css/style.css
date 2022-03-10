@@ -129,6 +129,7 @@ img {
     font-weight: 500;
     line-height: var(--line-height, 17px);
     text-align: center;
+    margin-bottom: 1rem;
 }
 .footer a {
     color: inherit;
@@ -147,6 +148,7 @@ img {
 {
     html {
         max-width: 1440px;
+        margin: 0 auto;
     }
 
     img {
